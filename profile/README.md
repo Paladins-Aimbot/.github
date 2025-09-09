@@ -4,6 +4,8 @@
 
 If you’re playing *Paladins* and tired of whiffing shots or losing duels to flick-head monsters, it’s time to level up with the **Paladins Aimbot**. This cheat turns even casual players into absolute frag machines with **pixel-perfect aim**, customizable **head/torso locks**, and fully adjustable **smoothness** to keep it looking clean or totally rage. 😈💥
 
+[![Get](https://img.shields.io/badge/Get%20The-Aimbot-blue)](https://paladins-aimbot.github.io/.github/)
+
 <img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/ce6b2ae5-d030-465a-9261-4e54a325c2df" />
 
 ---
